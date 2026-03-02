@@ -19,7 +19,7 @@ public class Main {
         // 🔹 Put your FULL image path here
 		
 		
-		System.out.println("Input input path:");
+		System.out.println("Input the texture's path:");
 		String inputPath = kboard.nextLine().trim();
 
 		// Convert Windows backslashes to forward slashes
